@@ -1,0 +1,22 @@
+{
+    "Shuvo": {
+        "password": "$2y$10$EV1sReUsdnVE.vj5u6YhYuhr3KZbyscnGzXPa/naTHE57BUKm4sVa",
+        "is_admin": true
+    },
+    "Saif": {
+        "password": "$2y$10$TzRi0JOcWnEtxqRNJNI9R.C1PQPdBIIJvUm6uv9fKFb.Rj5keLi2G",
+        "is_admin": false
+    },
+    "Fahad": {
+        "password": "$2y$10$vBPj7Un7XLsPd95XmzpDq.m2vMFifRyeeJQbGP58jO.gsi9SrTXLa",
+        "is_admin": true
+    },
+    "Sifat": {
+        "password": "$2y$10$YDjJ.n5qjB2uQnl3vWwpG.FBBvnGVxp7luycqi6ZvozIIgeY0QRLW",
+        "is_admin": false
+    },
+    "Bishal": {
+        "password": "$2y$10$IX6KmnZuya5M5bjfezWIhusu9g/gQ1S.OBDtPKcpyxz4SyzA4F0W.",
+        "is_admin": false
+    }
+}
