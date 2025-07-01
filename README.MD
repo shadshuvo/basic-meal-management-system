@@ -1,4 +1,4 @@
-# 🍽️ Meal.us.to - Meal Management System
+# 🍽️Meal Management System
 
 A comprehensive meal management system for shared living spaces! Track daily meals, manage cancellations, handle guest meals, and keep everyone organized. Designed for mostly bachelor homes🏠
 
